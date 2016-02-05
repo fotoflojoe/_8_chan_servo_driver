@@ -2,7 +2,7 @@
 
 Application: Six channel servo driver (Ardiuno Sketch)
 
-Purpose: Take input from momentary pushbutton (NO), move servo between two set positions, at set speed. Provide visual feedback as to servo's position using LEDs (green/hi, red/low).  
+Purpose: Take input from momentary pushbutton (NO). On button press, move servo between two set positions, at set speed, provide visual feedback as to servo's position using LEDs (green/hi, red/low).  
 
 
 sketch setup()
