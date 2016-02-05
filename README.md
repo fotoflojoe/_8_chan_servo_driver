@@ -1,7 +1,8 @@
 # _8_chan_servo_driver
 
-Purpose of Application: Six channel servo driver  
-Arduino sketch to take input from momentary pushbutton (NO), move servo between two set positions, at set speed. Provide visual feedback as to servo's position using LEDs (green/hi, red/low).  
+Application: Six channel servo driver (Ardiuno Sketch)
+
+Purpose: Take input from momentary pushbutton (NO), move servo between two set positions, at set speed. Provide visual feedback as to servo's position using LEDs (green/hi, red/low).  
 
 
 sketch setup()
